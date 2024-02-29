@@ -33,7 +33,8 @@
 - 관리자의 경우
 <img width="760" alt="image" src="https://github.com/kyounghosong/game-homepage/assets/151596220/92ac85ac-0b49-43ce-af6f-ea1f0fcf1191">
 
-★ 메인화면 
+★ 화면
+- 메인화면
 <img width="846" alt="image" src="https://github.com/kyounghosong/game-homepage/assets/151596220/afa7cd63-5bdb-4ddd-b50a-5f6022db625e">
 
 ★ 로그인&회원가입 페이지
