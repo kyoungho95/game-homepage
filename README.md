@@ -44,6 +44,7 @@
 <img width="589" alt="image" src="https://github.com/kyounghosong/game-homepage/assets/151596220/8176bde7-2556-452d-9d19-18293e6f062e">
 
 <hr/>
+
 - 공지사항
 <img width="571" alt="image" src="https://github.com/kyounghosong/game-homepage/assets/151596220/1ef90009-bb66-4cd2-9c60-989f6fbc43d0">
 
@@ -51,6 +52,7 @@
 <img width="587" alt="image" src="https://github.com/kyounghosong/game-homepage/assets/151596220/2407ee24-4144-45c6-9dd4-9d721c8fccf4">
 
 <hr/>
+
 - 이벤트
 <img width="604" alt="image" src="https://github.com/kyounghosong/game-homepage/assets/151596220/a0ab230b-4b27-4efc-8850-cb0c92d0bf87">
 
@@ -67,6 +69,7 @@
 <img width="510" alt="image" src="https://github.com/kyounghosong/game-homepage/assets/151596220/a3cef8c7-8447-43f8-a60d-00e2b006ce40">
 
 <hr/>
+
 - 포인트 상점
 <img width="343" alt="image" src="https://github.com/kyounghosong/game-homepage/assets/151596220/86e8c6a7-1263-4e1c-a24a-6fb8bc12beca">
 
