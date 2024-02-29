@@ -81,6 +81,8 @@
 
 <img width="398" alt="image" src="https://github.com/kyounghosong/game-homepage/assets/151596220/bdc23a04-2d5b-41f4-af29-9af78d079fcb">
 
+<hr/>
+
 - 문의 & 신고내역
 <img width="536" alt="스크린샷 2024-02-29 오후 5 16 43" src="https://github.com/kyounghosong/game-homepage/assets/151596220/2ce8d6a2-14ea-44ad-b979-cad39c55c99f">
 
