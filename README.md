@@ -76,4 +76,13 @@
 - 포인트 상점 상세페이지
 <img width="381" alt="image" src="https://github.com/kyounghosong/game-homepage/assets/151596220/0036b390-ebc7-4d02-bf7b-bbd50db61c56">
 
+- 구매 & 구매내역
+<img width="560" alt="image" src="https://github.com/kyounghosong/game-homepage/assets/151596220/514c78d9-efca-4ecf-ad18-985852cf272a">
 
+<img width="398" alt="image" src="https://github.com/kyounghosong/game-homepage/assets/151596220/bdc23a04-2d5b-41f4-af29-9af78d079fcb">
+
+- 문의 & 신고내역
+<img width="536" alt="스크린샷 2024-02-29 오후 5 16 43" src="https://github.com/kyounghosong/game-homepage/assets/151596220/2ce8d6a2-14ea-44ad-b979-cad39c55c99f">
+
+- 답변된 문의 내역
+<img width="527" alt="image" src="https://github.com/kyounghosong/game-homepage/assets/151596220/c11d130d-bfeb-4ba6-8a2b-3a13a2a4287a">
