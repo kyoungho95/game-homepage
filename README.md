@@ -59,6 +59,8 @@ https://difficult-sandwich-f97.notion.site/d62666b5a09141a8b2776cda6729466e?p=c5
 
 - 이벤트
 <img width="604" alt="image" src="https://github.com/kyounghosong/game-homepage/assets/151596220/a0ab230b-4b27-4efc-8850-cb0c92d0bf87">
+<img width="604" alt="image" src="https://github.com/kyounghosong/game-homepage/assets/151596220/af91f4aa-775c-4334-8989-457d503ad296">
+
 
 - 캐릭터 소개 
 <img width="258" alt="image" src="https://github.com/kyounghosong/game-homepage/assets/151596220/5bc0ff57-b6e1-40d8-9878-015f7cb95af1">
